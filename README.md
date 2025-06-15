@@ -1,1 +1,4 @@
-ojs-tutorial
+---
+permalink: /index.md
+---
+# ojs-tutorial
