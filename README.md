@@ -1,1 +1,1 @@
-# ojs-tutorial
+# OJS Tutorial
