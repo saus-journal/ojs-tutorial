@@ -1,5 +1,5 @@
 ---
-title: Home
+title: OJS TUTORIAL
 ---
 
 # My Simple Tutorial
