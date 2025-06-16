@@ -1,7 +1,3 @@
----
-title: OJS Tutorial
----
-
 # Welcome to My Tutorial Site
 
 This is a simple tutorial site built from scratch.
