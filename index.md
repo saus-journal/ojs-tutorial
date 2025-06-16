@@ -10,7 +10,7 @@ This is a simple tutorial site built from scratch.
 
 Here is some **bold**, *italic*, and other formatting.
 
-![Sample Image](https://via.placeholder.com/400)
+![Sample Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Saint_Sophia%2C_Constantinopolis.jpg/1280px-Saint_Sophia%2C_Constantinopolis.jpg)
 
 Watch this video:
 
