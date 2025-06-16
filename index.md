@@ -1,20 +1,26 @@
 ---
-title: OJS TUTORIAL
+title: OJS Tutorial
 ---
 
-# My Simple Tutorial
+# Welcome to My Tutorial Site
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+This is a simple tutorial site built from scratch.
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+## Introduction
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+Here is some **bold**, *italic*, and other formatting.
 
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+![Sample Image](https://via.placeholder.com/400)
 
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+Watch this video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+
+> {: .warning}
+> **Warning:** Be careful with this step.
+
+## Next Steps
+
+- Step 1  
+- Step 2  
+- Step 3  
