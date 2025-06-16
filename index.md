@@ -1,5 +1,5 @@
 ---
-title:
+title: TITLE
 ---
 # Welcome to My Tutorial Site
 
